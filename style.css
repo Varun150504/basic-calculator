@@ -46,7 +46,7 @@ button {
   border: none;
   border-radius: 5px;
   background-color: #555;
-  color: white;
+  color: red;
   cursor: pointer;
   transition: background-color 0.2s;
 }
