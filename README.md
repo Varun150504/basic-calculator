@@ -24,11 +24,16 @@ Perform basic arithmetic operations with a smooth user interface, live expressio
  
 
 
+ 
  🛠️ Technologies Used
+ 
 
 HTML – for the structure
+
 CSS – for styling and layout
+
 JavaScript – for interactivity and logic
+
 
  📁 Folder Structure
  basic-calculator/
