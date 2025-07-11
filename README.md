@@ -10,6 +10,7 @@ Perform basic arithmetic operations with a smooth user interface, live expressio
 [![View Live](https://img.shields.io/badge/View%20Calculator-Live%20Now-brightgreen?style=for-the-badge&logo=github)](https://varun150504.github.io/basic-calculator/)
 
 
+
  ✨ Features
 
  ✅ Perform addition, subtraction, multiplication, and division
@@ -25,6 +26,8 @@ Perform basic arithmetic operations with a smooth user interface, live expressio
 
 
  
+ 
+ 
  🛠️ Technologies Used
  
 
@@ -35,6 +38,8 @@ CSS – for styling and layout
 JavaScript – for interactivity and logic
 
 
+
+ 
  📁 Folder Structure
  basic-calculator/
 ── index.html # Main layout
@@ -53,16 +58,23 @@ JavaScript – for interactivity and logic
 
 
 
+
+
 🚀 Setup Instructions
 To run the project locally:
 
 1. Download or clone the repository:
 git clone https://github.com/varun150504/basic-calculator.git
-2. Open the folder and double-click index.html to launch in your browser
+
+3. Open the folder and double-click index.html to launch in your browser
+
+
 
 
 📜 License
 Licensed under the MIT License
+
+
 
 🙌 Author
 Created by Varun S as part of UNIFIED MENTOR web development project.
