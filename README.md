@@ -13,10 +13,15 @@ Perform basic arithmetic operations with a smooth user interface, live expressio
  ✨ Features
 
  ✅ Perform addition, subtraction, multiplication, and division
+ 
  ✅ Real-time expression display
+ 
  ✅ Clear (`C`) and backspace (`←`) functionality
+ 
  ✅ Handles invalid input (e.g., division by zero)
+ 
  ✅ Responsive layout with modern dark UI
+ 
 
 
  🛠️ Technologies Used
@@ -38,6 +43,7 @@ JavaScript – for interactivity and logic
 ── LICENSE # Open-source MIT License
 
 ── .gitignore # GitHub housekeeping
+
 
 
 
