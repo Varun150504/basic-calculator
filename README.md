@@ -28,11 +28,18 @@ JavaScript – for interactivity and logic
  📁 Folder Structure
  basic-calculator/
 ── index.html # Main layout
+
 ── style.css # Styling and responsiveness
+
 ── script.js # Calculator logic
+
 ── README.md # Project description
+
 ── LICENSE # Open-source MIT License
+
 ── .gitignore # GitHub housekeeping
+
+
 
 
 🚀 Setup Instructions
