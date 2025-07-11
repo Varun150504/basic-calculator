@@ -2,13 +2,13 @@
 
 A clean and functional calculator built using HTML, CSS, and JavaScript.  
 Perform basic arithmetic operations with a smooth user interface, live expression display, and error handling.
-
+------------------------------  --------------------------  --------------------------- ----------------------------  ----------------------------------------
 
 🌐 Live Demo
 👉 [Click here to use the calculator](https://varun150504.github.io/basic-calculator/)
 
 [![View Live](https://img.shields.io/badge/View%20Calculator-Live%20Now-brightgreen?style=for-the-badge&logo=github)](https://varun150504.github.io/basic-calculator/)
-
+------------------------ ------------------------------------ --------------------------------- ----------------------------------- ----------------------------------
 
 
  ✨ Features
@@ -23,7 +23,7 @@ Perform basic arithmetic operations with a smooth user interface, live expressio
  
  ✅ Responsive layout with modern dark UI
  
-
+--------------------------------------- -------------------------------- --------------------------- ---------------------------------- ------------------------
 
  
  
@@ -37,8 +37,7 @@ CSS – for styling and layout
 
 JavaScript – for interactivity and logic
 
-
-
+------------------------------------------------------ ---------------------------- --------------------------- ------------------------------------------ --------
  
  📁 Folder Structure
  basic-calculator/
@@ -54,7 +53,7 @@ JavaScript – for interactivity and logic
 
 ── .gitignore # GitHub housekeeping
 
-
+------------------------------------ -------------------------------------------------- ----------------------------------- ----------------------------------- ------------------
 
 
 
@@ -68,18 +67,18 @@ git clone https://github.com/varun150504/basic-calculator.git
 
 3. Open the folder and double-click index.html to launch in your browser
 
-
+---------------------- ------------------------- ----------------------------- -------------------------------- ------------------------------------ ------------------
 
 
 📜 License
 Licensed under the MIT License
 
-
+------------------- --------------------------------- ------------------------------- ----------------------------- --------------------------- ---------------------
 
 🙌 Author
 Created by Varun S as part of UNIFIED MENTOR web development project.
 
-
+--------------------------- --------------------------- ---------------------- ---------------------- ------------------------------------ ----------------------
 
 
 
